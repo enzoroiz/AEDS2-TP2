@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1355521473 source:c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp2 - contador palavras\contadorpalavrascorrigeerros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ContadorPalavrasCorrigeErros.h"
+
+1355520029 c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp2 - contador palavras\contadorpalavrascorrigeerros\contadorpalavrascorrigeerros.h
+	<stdio.h>
+	<stdlib.h>
+
+1355493813 source:c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp2 - contador palavras\contadorpalavrascorrigeerros\contadorpalavrascorrigeerros.c
+	"ContadorPalavrasCorrigeErros.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+
